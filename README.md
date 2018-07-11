@@ -14,7 +14,7 @@ bamazon is an Amazon-like storefront that takes in orders from customers and dep
   >![Sketch](/images/place_order.png)
 6. If there is no sufficient stock for the entered quantity, the following message is displayed:
   >![Sketch](/images/no_stock.png)
-7. User will need to confirm if he/she would like to buy another product
+7. User will need to confirm if he/she would like to buy another product (this message is prompted when user submits an order or when there is no sufficient stock):
   >![Sketch](/images/loop.png)
 8. If user enters **Yes** to question in step 7, application will start over.
 9. If user enters **No** to question in step 7, session ends:
